@@ -1,0 +1,13 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  padding-top: 10px;
+}
+
+.banner {
+  background-color: brown;
+  align-content: center;
+  display: flex;
+}
